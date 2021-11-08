@@ -47,5 +47,3 @@ while True:
 
 
 
-#网课https://tiku.gjzhan.cn/gongzhonghao/wangke.php
-#123456
